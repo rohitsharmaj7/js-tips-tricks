@@ -18,6 +18,7 @@
 
     
 1. ### What is JavaScript?
+   Javascript is a single threaded synchronous programming language.
 
    **[⬆ Back to Top](#table-of-contents)**
     
